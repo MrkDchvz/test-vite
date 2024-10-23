@@ -1,7 +1,7 @@
  [
     {
         "status": "Sold",
-        "imgLink": "/katie.png",
+        "imgLink": "./katie.png",
         "ratings": 1,
         "location": "USA",
         "reviewCount": 10,
@@ -10,7 +10,7 @@
     },
     {
         "status": "Available",
-        "imgLink": "public/katie.png",
+        "imgLink": "./katie.png",
         "ratings": 5,
         "location": "Canada",
         "reviewCount": 15,
@@ -19,7 +19,7 @@
     },
     {
         "status": "Pending",
-        "imgLink": "../katie.png",
+        "imgLink": "./katie.png",
         "ratings": 3,
         "location": "UK",
         "reviewCount": 5,
@@ -37,7 +37,7 @@
     },
     {
         "status": "Available",
-        "imgLink": "../../public/katie.png",
+        "imgLink": "./katie.png",
         "ratings": 2,
         "location": "Australia",
         "reviewCount": 12,
